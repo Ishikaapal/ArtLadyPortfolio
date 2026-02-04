@@ -11,7 +11,7 @@
 
 /* Mobile Phones (Standard & Small) */
 @media (max-width: 768px) {
-    .hero { height: 60vh; } 
+    .hero { height: 24vh; } 
     .subtitle {
         letter-spacing: 0.4em; /* Prevents text from wrapping too early */
         margin-bottom: 12px;
